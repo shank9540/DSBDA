@@ -1,0 +1,12 @@
+<dependencies>
+  <dependency>
+    <groupId>org.apache.hadoop</groupId>
+    <artifactId>hadoop-common</artifactId>
+    <version>3.3.0</version> <!-- Replace with the version you're using -->
+  </dependency>
+  <dependency>
+    <groupId>org.apache.hadoop</groupId>
+    <artifactId>hadoop-mapreduce-client-core</artifactId>
+    <version>3.3.0</version> <!-- Replace with the version you're using -->
+  </dependency>
+</dependencies>
